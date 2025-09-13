@@ -4,12 +4,11 @@ A simple and modern **React recipe finder app** using the [Forkify API] (https:/
 
 ## ✨ Features
 - Search recipes by name (e.g., pasta, pizza, burger)
-- View recipe details with ingredients
 - Clean and modern UI
 - Responsive design
 
 ## 🚀 Demo
-view [img.png]
+![view][img.png]
 ## 🛠️ Tech Stack
 - React (useState, hooks)
 - Forkify API

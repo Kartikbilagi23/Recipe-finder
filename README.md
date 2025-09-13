@@ -8,7 +8,7 @@ A simple and modern **React recipe finder app** using the [Forkify API] (https:/
 - Responsive design
 
 ## 🚀 Demo
-![view][img.png]
+![App Screenshot](img.png)
 ## 🛠️ Tech Stack
 - React (useState, hooks)
 - Forkify API
